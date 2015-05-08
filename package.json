@@ -1,0 +1,15 @@
+{
+  "name": "webServerNode",
+  "description": "A simple web server with node js and express",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resin-io/twilio-sms2speech.git"
+  },
+  "version": "0.0.3",
+  "dependencies": {
+    "express": "^4.4.5"
+  },
+  "engines": {
+    "node": "0.10.22"
+  }
+}
